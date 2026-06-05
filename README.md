@@ -94,11 +94,35 @@ Responsive Twitter (X) UI clone built with modern frontend technologies.
 
 ## 💻 Coding Profiles
 
-- LeetCode
-- CodeChef
-- Codeforces
-- GeeksforGeeks
+<p align="left">
+<a href="https://codolio.com/profile/sourav_grover" target="_blank">
+<img src="https://img.shields.io/badge/Codolio-Profile-blueviolet?style=for-the-badge" />
+</a>
 
+<a href="https://leetcode.com/u/sourav-grover/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/sourav_grover" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/souravgroverr" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/Sourav-Grover" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+### 🔗 Direct Links
+
+- 🏆 Codolio: https://codolio.com/profile/sourav_grover
+- 💻 LeetCode: https://leetcode.com/u/sourav-grover/
+- 🟢 GeeksforGeeks: https://www.geeksforgeeks.org/profile/sourav_grover
+- 💼 LinkedIn: https://www.linkedin.com/in/souravgroverr
+- 📂 GitHub: https://github.com/Sourav-Grover
 ---
 
 ## 📫 Connect With Me
