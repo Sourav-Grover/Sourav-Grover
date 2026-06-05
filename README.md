@@ -76,6 +76,7 @@ Interactive Power BI dashboard with KPI tracking, trend analysis, and data-drive
 
 📈 **Sentiment Analysis**
 Natural Language Processing project that analyzes text sentiment and classifies opinions as positive, negative, or neutral.
+
 ---
 
 ## 📈 GitHub Activity Graph
