@@ -71,7 +71,7 @@ Machine Learning model for estimating property prices using historical datasets.
 
 LinkedIn: www.linkedin.com/in/souravgroverr
 
-GitHub: github.com/Sourav-Grover
+GitHub: [github.com/Sourav-Grover](https://github.com/Sourav-Grover)
 
 Email: souravgrover132@gmail.com
 
