@@ -76,14 +76,6 @@ Responsive Twitter (X) UI clone built with modern frontend technologies.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sourav-Grover&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
 ## 📈 GitHub Activity Graph
 
 <p align="center">
