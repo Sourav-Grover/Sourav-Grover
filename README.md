@@ -60,22 +60,22 @@
 ## 📌 Featured Projects
 
 🔗 **BitLinks URL Shortener**
-Full-stack URL shortening platform built with Next.js, MongoDB, Tailwind CSS, JWT Authentication, Analytics, and REST APIs.
+Full-stack URL shortening platform built with Next.js, MongoDB, JWT Authentication, Tailwind CSS, and REST APIs.
 
 🏥 **Nirogyam Disease Prediction System**
-ML-powered healthcare system using Random Forest, Naive Bayes, and SVM to provide disease prediction and symptom-based insights.
+ML-powered disease prediction system using Random Forest, Naive Bayes, and SVM for symptom-based healthcare insights.
 
 🐦 **Twitter Clone**
-Responsive Twitter (X) clone built with modern frontend technologies, featuring a clean UI and mobile-friendly design.
+Responsive Twitter (X) clone featuring a modern UI and mobile-friendly design.
 
 🏠 **House Price Prediction**
-Machine Learning project that predicts property prices using historical housing data and regression techniques.
+Machine Learning model for predicting property prices using regression techniques.
 
 📊 **Traffic Accident Analysis Dashboard**
-Interactive Power BI dashboard with KPI tracking, trend analysis, and data-driven insights into accident patterns.
+Interactive Power BI dashboard providing KPI tracking, trend analysis, and accident insights.
 
-📈 **Sentiment Analysis**
-Natural Language Processing project that analyzes text sentiment and classifies opinions as positive, negative, or neutral.
+😊 **Sentiment Analysis**
+NLP-based project that classifies text sentiment into positive, negative, and neutral categories.
 
 ---
 
