@@ -1,35 +1,33 @@
 <h1 align="center">Hi 👋, I'm Sourav Grover</h1>
 
-<h3 align="center">
-B.Tech CSE Student | Java Developer | DSA Enthusiast | Machine Learning | Full Stack Developer
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;DSA+Enthusiast;Machine+Learning+Engineer;Full+Stack+Developer;Open+to+Internships&center=true&width=700&height=50">
+</p>
 
 <p align="center">
-Passionate about building scalable software solutions, solving DSA problems, and applying AI/ML to real-world challenges.
+  <a href="https://www.linkedin.com/in/souravgroverr">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/Sourav-Grover">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech in Computer Science & Engineering @ KIIT University
+🎓 B.Tech CSE @ KIIT University
 
-💻 Interested in:
-- Software Development
+💻 Java | DSA | Machine Learning | Full Stack Development
+
+🌱 Currently focused on:
 - Data Structures & Algorithms
+- Software Development
 - Machine Learning
-- Full Stack Development
+- Placement Preparation
 
-🌱 Currently Learning:
-- Advanced DSA
-- System Design Fundamentals
-- Backend Development
-- Machine Learning
-
-🎯 Goal:
-- Secure a Software Development Internship
-- Crack 2027 Placement Season
-- Become a Strong Software Engineer
+🎯 Goal: Software Development Internship & 2027 Placements
 
 ---
 
@@ -48,7 +46,7 @@ Passionate about building scalable software solutions, solving DSA problems, and
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 
 ### Database & Tools
 
@@ -61,28 +59,35 @@ Passionate about building scalable software solutions, solving DSA problems, and
 
 ## 📌 Featured Projects
 
-### 🔗 BitLinks URL Shortener
-A full-stack URL shortening platform built using Next.js, MongoDB, and Tailwind CSS featuring custom aliases, fast redirection, and REST APIs.
+🔗 **BitLinks URL Shortener**  
+Full-stack URL shortening platform built with Next.js, MongoDB, and Tailwind CSS.
 
-### 🏥 Nirogyam Disease Prediction System
-Machine Learning-powered disease prediction platform using Random Forest, Naive Bayes, and SVM algorithms.
+🏥 **Nirogyam Disease Prediction System**  
+ML-powered disease prediction system using Random Forest, Naive Bayes, and SVM.
 
-### 📊 Traffic Accident Analysis Dashboard
-Interactive Power BI dashboard providing accident trend analysis, KPIs, and risk insights.
+📊 **Traffic Accident Analysis Dashboard**  
+Interactive Power BI dashboard with KPI and trend analysis.
 
-### 🏠 House Price Prediction
-Machine Learning model for estimating house prices using historical datasets.
+🏠 **House Price Prediction**  
+Machine Learning model for property price estimation.
 
-### 🐦 Twitter Clone
-Responsive Twitter (X) UI clone built using modern frontend technologies.
+🐦 **Twitter Clone**  
+Responsive Twitter (X) UI clone built with modern frontend technologies.
 
 ---
 
-## 📊 GitHub Statistics
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sourav-Grover&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav-Grover&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sourav-Grover&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sourav-Grover&theme=tokyo-night" />
 </p>
 
 ---
@@ -90,36 +95,24 @@ Responsive Twitter (X) UI clone built using modern frontend technologies.
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Sourav-Grover&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Sourav-Grover&theme=tokyonight" />
 </p>
 
 ---
 
-## 🎯 2026 Goals
+## 💻 Coding Profiles
 
-✅ Strengthen DSA
-
-✅ Build Production-Ready Projects
-
-✅ Improve Problem Solving
-
-✅ Secure Internship
-
-✅ Prepare for 2027 Placements
+- LeetCode
+- CodeChef
+- Codeforces
+- GeeksforGeeks
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Connect With Me
 
-💼 LinkedIn:
-https://www.linkedin.com/in/souravgroverr
+💼 LinkedIn: https://www.linkedin.com/in/souravgroverr
 
-📧 Email:
-souravgrover132@gmail.com
+📧 Email: souravgrover132@gmail.com
 
-💻 GitHub:
-https://github.com/Sourav-Grover
-
----
-
-⭐ If you like my work, feel free to connect and collaborate.
+⭐ Always learning, building, and improving.
